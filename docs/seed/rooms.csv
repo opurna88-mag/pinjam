@@ -1,0 +1,16 @@
+code,name,capacity,location,facilities,note
+AULA-FIP-D3,AULA FIP (Gedung D3),150,Gedung D3 Lt.1,AC; Proyektor; Sound System; Mic; WiFi; Panggung,[ESTIMASI] kapasitas & lokasi
+HALL-GKB,HALL GKB,200,Gedung GKB Lt.1,AC; Proyektor; Sound System; Mic; WiFi; Panggung,[ESTIMASI] kapasitas & lokasi
+AULA-D4-LT1,AULA D4 Lt.1 (D4.103/104),120,Gedung D4 Lt.1,AC; Proyektor; Sound System; Mic; WiFi,[ESTIMASI] kapasitas & lokasi
+AULA-ORMAWA,AULA ORMAWA,80,Gedung Ormawa,AC; Proyektor; Sound System; WiFi,[ESTIMASI] kapasitas & lokasi
+R-RAPAT-FIP,RUANG RAPAT FIP,30,Gedung D3 Lt.2,AC; Proyektor; WiFi; Papan Tulis,[ESTIMASI] kapasitas & lokasi
+R-KONFREN-D6102,R. KONFREN D6.102,40,Gedung D6 Lt.1,AC; Proyektor; WiFi; Papan Tulis; Mic,[ESTIMASI] kapasitas & lokasi
+TALENT-CENTER-D6,TALENT CENTER D6,60,Gedung D6 Lt.1,AC; Proyektor; WiFi; Sound System,[ESTIMASI] kapasitas & lokasi
+R-INOVASI,R. INOVASI,40,Gedung D3 Lt.1,AC; Proyektor; WiFi; Papan Tulis,[ESTIMASI] kapasitas & lokasi
+R-TESIS,R. UJIAN TESIS,20,Gedung D6 Lt.2,AC; Proyektor; WiFi; Meja Ujian,[ESTIMASI] kapasitas & lokasi
+R-DISERTASI,R. UJIAN DISERTASI,20,Gedung D6 Lt.2,AC; Proyektor; WiFi; Meja Ujian,[ESTIMASI] kapasitas & lokasi
+R-SKRIPSI-D6403,R. SKRIPSI D6.403,15,Gedung D6 Lt.4,AC; Proyektor; WiFi; Meja Ujian,[ESTIMASI] kapasitas & lokasi
+R-SKRIPSI-D6408,R. SKRIPSI D6.408,15,Gedung D6 Lt.4,AC; Proyektor; WiFi; Meja Ujian,[ESTIMASI] kapasitas & lokasi
+R-BELAJAR-S2S3,R. BELAJAR S2/S3,20,Gedung D6 Lt.3,AC; Proyektor; WiFi; Papan Tulis,[ESTIMASI] kapasitas & lokasi
+PERPUS-UJIAN,PERPUSTAKAAN (UJIAN SKRIPSI),25,Gedung Perpustakaan Lt.2,AC; WiFi; Meja Ujian,[ESTIMASI] kapasitas & lokasi
+UPP2-B4,GEDUNG B4 UPP 2,50,Gedung B4,AC; Proyektor; WiFi; Sound System,[ESTIMASI] kapasitas & lokasi
